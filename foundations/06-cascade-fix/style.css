@@ -26,7 +26,7 @@ body {
 .confirm {
   background: green;
   color: white;
-  font-weight: bold;
+  font-weight: 900;
 } 
 
 #confirm-button {
